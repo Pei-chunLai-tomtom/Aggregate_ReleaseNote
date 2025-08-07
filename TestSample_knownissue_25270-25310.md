@@ -1,3 +1,30 @@
+## highlight in 25310.000  
+General
+[25310.000]Thank you for your time in evaluating our map! Your feedback is valuable to shape future enhancements and features that benefit you. Here's what you can expect from our latest release of TomTom Orbis Maps. Feature statistics have been removed from release notes to enhance readability. You can still access detailed feature delta statistics in the accompanying files with label 'statistics_deltas' provided with the release.
+directions
+[25310.000]Improved speeds, mainly on unpaved roads, for Australia and South Africa.
+[25310.000]Regular monthly maintenance on speed-profiles which results in updates on a [25310.000]significant share of all ways (>50%). This is a planned and validated update. Involved countries are ALB,AND,ARE,ARG,ASM,AUS,AUT,BEL,BGR,BHR,BIH,BLR,BRA,BRN,BVT,CAN,CCK,CHE,CHL,COL,CXR,CYP,CZE,DEU,DNK,EGY,ESP,EST,FIN,FRA,FRO,GBR,GGY,GIB,GRC,GUM,HKG,HMD,HRV,HUN,IDN,IMN,IND,IRL,ISL,ISR,ITA,JEY,KEN,KWT,LIE,LTU,LUX,LVA,MAC,MAR,MCO,MEX,MLT,MNE,MNP,MOZ,MUS,MYS,MYT,NAM,NFK,NGA,NLD,NOR,NZL,OMN,PER,PHL,POL,PRI,PRT,QAT,REU,ROU,RUS,SAU,SGP,SVN,SMR,SRB,SVK,SWE,THA,TUN,TUR,TWN,UKR,URY,USA,VAT,VIR,VNM,XES,XKS,XKX,XLX,XPX,XSV,XSX,XXH,XXJ,XXK,ZAF.
+ens
+[25310.000]The namespace #Short Name Type will be deprecated, and the Short Name coverage will be reduced. The different structural mechanisms to shorten names by just removing words will no longer be applied
+[25310.000]Parts of this work are a derivative of : - "GeoNames Gazetteer" by GeoNames.org, licensed under CC BY 4.0. - "Dublin City Roads and Streets Data" by Dublin City Council, licensed under CC BY 4.0. - data downloaded from https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/ by Base Adresse Nationale, on 11 Aug 2022, licensed under ETALAB Open License 2.0. - data downloaded from https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/ by Base Adresse Nationale, on 08 Sep 2022, licensed under ETALAB Open License 2.0. - Wikidata, licensed under CC0 1.0.
+[25310.000]Please note that OSM map content are currently not being enhanced with translations and phonemes due to ODbL licensing constraints.
+poi
+[25310.000]Reduced duplicates across following categories. Geographic features by 6.49%, Trail System by 1.39% and Mountain Pass by 0.32%
+[25310.000]Change in sources has led to a significant improvement in coverage for pharmacies in AUT, DNK, NLD, PRT, and SWE. Counts have increased by 4500 across the 5 countries (33% to 65% relative increase by country).
+[25310.000]For railway_station POIs that have an OSM building of type train_station within ~100 meters, we improved the algorithm to generate an additional routing point. This improvement resulted into ~3500 railway stations gained an additional routing point.
+[25310.000]Change in source has led to removal of about 620K mostly superfluous POIs across multiple countries. This includes 220K shops, 200K companies, 65K sport centers, 47K repair facilities, 15K automotive dealers, and 12K pharmacies.
+[25310.000]Change in Machine learning model enabled for Wildlife and Gardens led to a positive impact on POI Availability for the following groups: Important Tourist attractions (66.4% to 74.7%), Shopping Centers (72% to 74.7%), and Amusement Park (66.9% to 77%)
+Canada
+ens
+[25310.000]Parts of this work contain information licensed under the Open Government License – Canada version 2.0.
+Korea, Republic of
+geocoding
+[25310.000]Streetnames content has been removed from the Orbis Sectioned Product for Korea. This change aligns with our intent to offer a basic display-only map for this region.
+United States of America
+poi
+[25310.000]For following areas - Dallas Fort-Worth, TX, Houston–The Woodlands–Sugar Land, TX, New York–Newark–Jersey City, 16848 OOB flags have been added and Confidence score has been improved for 476k POIs.
+
+
 ## Known issues in 25310.000  
 General  
 geocoding  
