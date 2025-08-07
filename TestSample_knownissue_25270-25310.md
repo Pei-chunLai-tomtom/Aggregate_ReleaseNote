@@ -60,7 +60,7 @@ geocoding
 [25280.000]The waterbelt area of a country is not part of any administrative region of the country. The problem doesn't exist for USA, but exists for multiple other countries.  
 poi  
 [25280.000]As a result of removal Parking POIs from a source containing superfluous POIs, there is a lower coverage of Parking attribution such as parking type and parking capacity. A fix plan is being defined.  
-8M of TT Proprietary POIs have been unintendedly moved to another locations, which in most of the cases, is a location of respective Address Point. As a result of this more POIs are stacked, especially POIs belonging to a complex venues such as Shopping Malls. This will be fixed in the next product.  
+[25280.000]8M of TT Proprietary POIs have been unintendedly moved to another locations, which in most of the cases, is a location of respective Address Point. As a result of this more POIs are stacked, especially POIs belonging to a complex venues such as Shopping Malls. This will be fixed in the next product.  
 United States of America  
 geocoding  
 [25280.000]Some areas USA lack short names populated and only have primary normalized names.  
